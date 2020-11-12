@@ -1,4 +1,4 @@
-service: sls-offline-example
+service: sls-offline-sqs-example
 
 plugins:
   - serverless-offline-sqs
