@@ -1,5 +1,5 @@
 {
-  "name": "sls-offline-example",
+  "name": "sls-offline-sqs-example",
   "version": "1.0.0",
   "main": "Handler.js",
   "scripts": {
