@@ -1,4 +1,4 @@
-#SLS Offline Example template
+# SLS Offline SQS Example template
 
 SQS Offline integration with ElasticMQ
 
